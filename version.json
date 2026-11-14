@@ -1,0 +1,16 @@
+{
+  "product": "Cursor FX",
+  "publisher": "VINT Studio",
+  "channel": "stable",
+  "latest_version": "0.9.18",
+  "minimum_supported_version": "0.9.18",
+  "release_page": "https://github.com/tkhongcan/CursorFX-Releases/releases",
+  "download_url": null,
+  "sha256": null,
+  "file_name": null,
+  "published_at": null,
+  "release_notes": "The public update channel is initialized. The first installable package will be published after the updater and installer have been tested.",
+  "mandatory": false,
+  "status": "not_published",
+  "schema_version": 1
+}
